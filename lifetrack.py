@@ -100,7 +100,7 @@ print("now is ",datetime.datetime.now().weekday())
 x=datetime.date.today()
 print (calendar.day_name[x.weekday()])
 
-messagebox.showinfo(title="About Motey", message="Mote in the Eye of God")  
+messagebox.showinfo(title="About Motey", message="Motie engineer maybe")  
 
 #itemsforlistbox=['one','two','three','four','five','six','seven']
 #varScale=0
